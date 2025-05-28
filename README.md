@@ -1,4 +1,4 @@
-### Hello World. I'm Javi 👋.
+### Hola Mundo. Soy Javi 👋.
 ---
 <p>
   <img src="./Javi.gif" align="right" width="20%"/>
@@ -7,7 +7,7 @@
     <br>
     <br>🔹 Actualmente estoy aprendiendo a programar
     <br>🔹 Programación en HTML, JAVA y SQL
-    <br>🔹 Me interesa el desarrollo de aplicaciones web.
+    <br>🔹 Me interesa el desarrollo de aplicaciones web y ser musico.
     </samp>
    <br>
   <br>
