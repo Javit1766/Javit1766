@@ -1,7 +1,7 @@
 ### Hello World. I'm Javi 👋.
 ---
 <p>
-  <img src="./Javi.gif" align="right" width="30%"/>
+  <img src="./Javi.gif" align="right" width="25%"/>
   <samp>
     <br>Soy un desarrollador Web y creador de contenidos digitales.
     <br>
